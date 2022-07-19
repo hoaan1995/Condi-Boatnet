@@ -15,9 +15,7 @@
  </div>
  
  ## Logs</br>
- - NEW THEME!
- - ALL METHODS WORKING!
- - UPDATE ANY SELFREPS!
+ - VERSION 1 RELEASE!
 
 
 # README ♥️
