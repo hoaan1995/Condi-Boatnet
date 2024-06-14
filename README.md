@@ -2,6 +2,8 @@
  
 # 🚀 Condi boatnet Ver 1 🚀
 
+# Store: https://condi.billgang.store/
+
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/Condi-Boatnet?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/hoaan1995/Condi-Boatnet?color=%239999FF&style=for-the-badge"/> &nbsp;
